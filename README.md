@@ -1,6 +1,6 @@
 # Matthew Trang Engineering Resume
 
-![cover](https://github.com/trangml/resume/blob/main/matthew_trang_resume.png?raw=true)
+![cover](https://github.com/trangml/resume/blob/main/Trang_Matthew_Resume.png?raw=true)
 
 ## Info
 Hi, my name is Matthew Trang, and I am a Machine Learning Engineer with interests in Reinforcement Learning, Robotics,
