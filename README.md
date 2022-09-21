@@ -8,7 +8,7 @@ and Computer Vision. I have years of experience working in the space and defense
 Machine Learning Engineer. 
 Here is my resume, contact me at mattluutrang@vt.edu with any questions!
 
-### Last Updated: June 26th, 2022
+### Last Updated: September 21st, 2022
 
 ### Updated by:
 Matthew Trang
